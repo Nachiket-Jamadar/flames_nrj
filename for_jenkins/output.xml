@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1.1 (Python 3.12.6 on win32)" generated="2024-10-21T19:52:52.845986" rpa="false" schemaversion="5">
+<suite id="s1" name="For Jenkins" source="D:\flames_nrj\for_jenkins\for_jenkins.robot">
+<test id="s1-t1" name="Addition" line="5">
+<kw name="Should Be Equal" owner="BuiltIn">
+<msg time="2024-10-21T19:52:52.900887" level="FAIL">3 != 2</msg>
+<arg>3</arg>
+<arg>${NUMBER}</arg>
+<doc>Fails if the given objects are unequal.</doc>
+<status status="FAIL" start="2024-10-21T19:52:52.900887" elapsed="0.000000">3 != 2</status>
+</kw>
+<status status="FAIL" start="2024-10-21T19:52:52.900887" elapsed="0.000000">3 != 2</status>
+</test>
+<doc>Trying this to setup in jenkins</doc>
+<status status="FAIL" start="2024-10-21T19:52:52.850575" elapsed="0.058424"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="For Jenkins">For Jenkins</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
