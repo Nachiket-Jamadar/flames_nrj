@@ -1,5 +1,5 @@
 import flames_functions
-from robot.api.deco import keyword, library
+from robot.api.deco import keyword
 
 ROBOT_LIBRARY_SCOPE = 'TEST SUITE'
 

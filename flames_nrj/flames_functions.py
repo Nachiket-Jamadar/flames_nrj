@@ -20,7 +20,7 @@ def _get_nth_letter(count, flames):
     return flames_list[count-1]
 
 def find_relation(count):
-    flames = "flames"
+    flames = "flames_nrj"
     while len(flames) > 1:
         nth_letter = _get_nth_letter(count, flames)
         flames = flames.replace(nth_letter, '')
