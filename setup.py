@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name='flames_nrj',
-	version='0.4',
+	version='0.5',
 	description='flames_nrj library for python robot framework practice',
 	author='Nachiket Jamadar',
 	author_email='nachiketjam@gmail.com',
