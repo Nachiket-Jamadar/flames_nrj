@@ -13,7 +13,7 @@ def cancel_and_count(n1, n2):
     return len(n1)+len(n2)
 
 def _get_nth_letter(count, flames):
-
+    flames_list = list(flames)
     while len(flames) < count:
         flames = flames+flames
         flames_list = list(flames)

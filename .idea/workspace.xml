@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="setup_file_update" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +40,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.flames.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;setup__file__update&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;extra__arguement__fix&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/flames_nrj&quot;
   }
 }</component>
